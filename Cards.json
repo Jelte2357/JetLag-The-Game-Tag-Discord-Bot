@@ -1,0 +1,148 @@
+{
+    "1": {
+        "Challenge": "Eat at the Worst Restaurant",
+        "Reward": "1200",
+        "Picture": "Take a picture of the dish and share it in your private channel",
+        "Explanation": "Using Trip Advisor, you must determine the worst-reviewed restaurant within 2 miles and eat a full meal there. It must have at least 10 reviews.\n\nIf the restaurant is closed, you can select the next worst reviewed restaurant that is open."
+    },
+
+    "2": {
+        "Challenge": "Commit an American Crime",
+        "Reward": "600",
+        "Picture": "Take a picture of you breaking the law and place it (together with an explenation) in your private channel.",
+        "Explanation": "Do something that is legal in your current country that would not be legal in the state where you actually reside. "
+    },
+
+    "3": {
+        "Challenge": "Curse: 5 letters or less",
+        "Reward": "750",
+        "Picture": "Take a picture of you at a sign at the village or city you get off at, and share it in your private channel.",
+        "Explanation": "Cursed!\n\nThe name of the next town, city, or municipality that you disembark in cannot be longer than 5 letters.\n\nUnless vetoed, this card is claimed immediately."
+    },
+
+    "4": {
+        "Challenge": "Swap To A Tote",
+        "Reward": "1000",
+        "Picture": "Take a picture of you with the tote, and share it in your private channel.",
+        "Explanation": "Find a tote bag. Remove every item from your backpack and put them in the tote bag. You may not use your backpack until the next time you get tagged.\n\nIf one tote bag is not enough to fit all of your possessions, you may use multiple tote bags.\n\nAny bag that you carry with handles like a tote bag counts as a tote bag."
+    },
+
+    "5": {
+        "Challenge": "Estimate Your City's Population",
+        "Reward": "1000",
+        "Picture": "Take a picture of whatever you want, and share it (together with your estimate) in your private channel.",
+        "Explanation": "You may only guess once.\n\nIn this context, city means municipality.\n\nYou cannot use your phone, the internet, or ask anyone any questions while this challenge is active\n\nIf you are off by more than 25%, this card is automatically vetoed. (you do need to run the veto command yourself)"
+    },
+
+    "6": {
+        "Challenge": "Visit the Top Attraction",
+        "Reward": "750",
+        "Picture": "Take a picture of you at the attraction, and share it in your private channel.",
+        "Explanation": "Determine the #1 attraction on TripAdvisor within two miles and get within 500 feet of it.\n\nYou do not need to gain admittance to the attraction.\n\nList the top five things you like about it."
+    },
+
+    "7": {
+        "Challenge": "Visit Any Museum",
+        "Reward": "1000",
+        "Picture": "Take a picture in the museum (if not allowed, take one from the outside), and share it in your private channel.",
+        "Explanation": "You must gain entry to the museum, spend at least 20 minutes there, and share a fact that you learned."
+    },
+
+    "8": {
+        "Challenge": "Eat a Fast Three Course Meal",
+        "Reward": "1000",
+        "Picture": "Take a picture of every course, and share them in your private channel.",
+        "Explanation": "Each course must be purchased at a different fast food chain.\n\nYou must sit down at the restaurant and complete your whole course before moving on to the next meal.\n\nThe courses are: appetizer, main, and dessert. The appetizer can be anything, but the main must be advertised as main, and the desert must be advertised as dessert."
+    },
+
+    "9": {
+        "Challenge": "Curse: Cannot Use Your Phone",
+        "Reward": "2000",
+        "Picture": "Take one last picture, and share it in your private channel.",
+        "Explanation": "Until the next time you get tagged, you cannot use your phone to research information. You may only use it for the following things:\nBooking seat reservation (but NOT researching routes)\nFilming\nVerifying answers if a challenge requires it\nAccounting\nEmergencies\nDiscord (of course)\nUnless vetoed, this card is claimed immediately.\n"
+    },
+
+    "10": {
+        "Challenge": "Use a Fancy Restroom",
+        "Reward": "750",
+        "Picture": "Take a picture of the toilet, and share it in your private channel.",
+        "Explanation": "Use the restroom of a hotel that costs more than $500 that night.\n\nYou must actually use the restroom"
+    },
+
+    "11": {
+        "Challenge": "Do 100 Squats",
+        "Reward": "500",
+        "Picture": "Take a picture of you doing the squats, and share it in your private channel.",
+        "Explanation": "For a full squat, your thighs must be parallel to the ground.\nYou may move or rest between squats."
+    },
+
+    "12": {
+        "Challenge": "Go exactly one mile (1.6 km) from your starting point",
+        "Reward": "750",
+        "Picture": "Take a picture on your end point, and share it in your private channel.",
+        "Explanation": "Close your eyes, spin in a circle, and point in a random direction. You must go as close as possible (on publicly accessible land) to the location exactly 1 mile in that direction."
+    },
+
+    "13": {
+        "Challenge": "Eat the National Desert",
+        "Reward": "900",
+        "Picture": "Take a picture of you with your desert, and share it in your private channel.",
+        "Explanation": "It must be the national dessert of the country you are currently in.\n\nYou must eat at least one serving of the dessert.\n\nFrance: Profiteroles\nGermany: Berliner\nEngland: Trifle\nBelgium: Gaufre\nThe Netherlands: Strooppwafel\nSwitzerland: Meringue"
+    },
+    
+    "14": {
+        "Challenge": "Curse: Get On A Random Train",
+        "Reward": "800",
+        "Picture": "Share a picture of the departure board (and if you want, one of the train), and share it in your private channel.",
+        "Explanation": "Roll a die. Whatever number you roll, you must take that number train on the departure board at your nearest station (If you roll a 4, you must take the fourth train on the board, etc.)\n\nUnless vetoed, this card is claimed immediately. (though you do need to run the veto command yourself)"
+    },
+
+    "15": {
+        "Challenge": "Find a Fancy Car",
+        "Reward": "900",
+        "Picture": "Take a picture of you with the car and share it in your private channel.",
+        "Explanation": "The car must have a sticker price of more than 100,000 euros (or equivalent) in the country you're currently in\n\nIt must be a real car, not a depiction."
+    },
+
+    "16": {
+        "Challenge": "Eat the National Dish",
+        "Reward": "900",
+        "Picture": "Take a picture of you with your dish, and share it in your private channel.",
+        "Explanation": "It must be the national dish of the country you are currently in.\n\nYou must eat at least one serving of the dish.\nFrance: Pot-Au-Feu\nGermany: Bratwurst\nEngland: Fish and Chips\nBelgium: Frites\nThe Netherlands: Stamppot\nSwitzerland: Rosti"
+    },
+
+    "17": {
+        "Challenge": "Touch an Animal that's not a Pet",
+        "Reward": "750",
+        "Picture": "Take a picture of you with the animal, and share it in your private channel.",
+        "Explanation": "The animal must be mouse sized or bigger.\n\nThe animal must be alive.\n\nThe animal may be in captivity/domesticated, but it may not be attempting to become a pet (no shelters or pet stores)."
+    },
+
+    "18": {
+        "Challenge": "Hide and Seek",
+        "Reward": "1500",
+        "Picture": "Take a picture of your hiding spot, and share it in your private channel.",
+        "Explanation": "Alert the chasers as soon as you pull this card.\n\nChoose a building within 2 miles of where you are now. Send the chasers its address, turn off your tracker, and then find a hiding place.\n\nOne you have chosen a hiding place, you may not move until you are caught or you claim the card.\nThe chasers have 1 hour from the time that you turn off your tracker to find you.\nIf you last 1 hours the card is claimed. You may wait up to a half an hour before turning your tracker back on."
+    },
+
+    "19": {
+        "Challenge": "Get 1000ft (300m) from any Building",
+        "Reward": "1500",
+        "Picture": "Make enough panorama pictures to show that you are 300 meters away from any building, and share them in your private channel.",
+        "Explanation": "A building is defined as any man made structure large enough and capable of fitting people inside of it.\n\nYou must either be able to see 1000 ft in all directions or search thoroughly enough to prove that there are no buildings.\n\nThis cannot be claimed while in motion."
+    },
+
+    "20": {
+        "Challenge": "Hide Your Phone and Leave",
+        "Reward": "900",
+        "Picture": "Take a picture of where you will leave your phone, and share it in your private channel.",
+        "Explanation": "You must place your personal phone down in a publicly-accessible location. It does not need to be visible. Travel at least 0.25 miles away from your phone before you return to retrieve it.\n\nIf the phone is stolen, Then that is your problem."
+    },
+
+    "21": {
+        "Challenge": "Get on a Train Immediately",
+        "Reward": "900",
+        "Picture": "Take a picture of you on the train, and share it in your private channel.",
+        "Explanation": "You must be on a moving train in the next 10 minutes.\n\nIf you are not on a moving train in the next 10 minutes, this card is vetoed. (you do need to run the veto command yourself)\n\nMetro trains count as trains, including rubber wheeled trains."
+    }
+}
