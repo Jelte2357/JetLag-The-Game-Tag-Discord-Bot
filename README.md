@@ -1,4 +1,4 @@
-## Hi, the name is Jelte2357, and I like JLTG.
+## Hi, I'm Jelte2357, and I like JLTG.
 
 I wrote this as a challenge to myself to learn making a discord bot. Through this process I've also improved as a coder. Though, you aren't here for all that, but for this discord bot. 
 
