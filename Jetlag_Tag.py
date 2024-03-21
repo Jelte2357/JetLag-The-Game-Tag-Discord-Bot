@@ -258,7 +258,7 @@ async def on_message(message):
         if len(message.attachments) > 0:
             for attachment in message.attachments:
                 await attachment.save(f"chatlog/{message.channel.name}/{attachment.filename}")
-    except AttributeError:
+    except (AttributeError, FileNotFoundError):
         pass
 
 @client.tree.command(
